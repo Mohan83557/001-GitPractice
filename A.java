@@ -1,7 +1,7 @@
-public class A{
+public class B{
 
-A(){
-System.out.println("Constructor A");
+B(){
+System.out.println("Constructor B");
 }
 void m1(){
 System.out.println("Method A");
